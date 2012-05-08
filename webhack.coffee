@@ -1,2 +1,3 @@
-# Start
-# hacking!
+# Start hacking!
+
+console.log("test")
