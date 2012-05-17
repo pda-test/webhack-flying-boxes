@@ -1,5 +1,4 @@
 # flying boxes!
-# (test commit)
 
 canvas = document.getElementById("canvas")
 canvas.style.backgroundColor = "white"
